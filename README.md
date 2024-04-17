@@ -1,4 +1,25 @@
 # SEUS-MBON-cruise
+This repo is the entry point for learning about the South-East US Marine Biodiversity Observation Network (SEUS-MBON) research cruise.
+
+Quick links:
+* `./pipeline` : an overview of how collected data flows through processing steps and into data endpoints
+* Data
+  * USF Cruise data is in [box.com/imars_mbon_cruises](https://usf.app.box.com/folder/179388329770?s=f6kujckfibt78al222ied0w2m6dxa529)
+* USF's Cruise Protocol
+  * [cruise scripts](https://github.com/USF-IMARS/mbon_cruise_scripts)
+* Specific Processing Efforts
+  * BB3 : Sebastian's [processing](https://github.com/USF-IMARS/BB3_processing) and [matchup](https://github.com/USF-IMARS/bb3_matchup)
+  * Taxa occurrence data: 
+    * Zooplankton microscopy
+      * [ref 1](https://github.com/USF-IMARS/mbon_zooplankton_to_dwc)
+      * [ref 2](https://github.com/USF-IMARS/zoo-taxonomy-to-darwin-core) 
+    * eDNA processed by Anni Djurhuus and Enrique Montes
+    * Sebastian's [phytoplankton from Pigments](https://github.com/USF-IMARS/MBON_phytoplankton_pigments)
+      * TODO: put this data into OBIS
+  * CTD: Mostafa's [data proceessing](https://github.com/Mostafaawada/Dissertation_code)
+
+
+## Background
 MBON cruises taken in S FL starting in the 2016 and collections ongoing as of 2023.
 2015 was a trial run, but funding began for the cruises in 2016.
 Chris Kelble has data from before 2015.
