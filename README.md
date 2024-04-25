@@ -16,7 +16,9 @@ Quick links:
     * eDNA processed by Anni Djurhuus and Enrique Montes
     * Sebastian's [phytoplankton from Pigments](https://github.com/USF-IMARS/MBON_phytoplankton_pigments)
       * TODO: put this data into OBIS
-  * CTD: Mostafa's [data proceessing](https://github.com/Mostafaawada/Dissertation_code)
+  * CTD:
+      * Mostafa's [CTD Processing & Reports](https://github.com/USF-IMARS/seus-mbon-cruise-ctd-processing)
+      * Mostafa's additional [data proceessin scripts](https://github.com/Mostafaawada/Dissertation_code)
 
 
 ## Background
