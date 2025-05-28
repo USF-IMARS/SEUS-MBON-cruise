@@ -5,6 +5,15 @@ Quick links:
 * `./pipeline` : an overview of how collected data flows through processing steps and into data endpoints
 * Data
   * USF Cruise data is in [box.com/imars_mbon_cruises](https://usf.app.box.com/folder/179388329770?s=f6kujckfibt78al222ied0w2m6dxa529)
+  * SFER data in [Ecosystem-Assessment-Lab/SFER](https://github.com/Ecosystem-Assessment-Lab/SFER/tree/main/DATA) (primary contact: Heidi Hirsh)
+  * SFER Carbonate System data available in [this portal](https://www.aoml.noaa.gov/ocd/ocdweb/shortcruises/shortcruises_gomcaribbean.html) (primary contact: Heidi Hirsh)
+  * ADCP data available in [this google drive folder](https://drive.google.com/drive/folders/1E3fmKuWxmqhFspHhqvbFEI5qKGGKJgnk?usp=sharing)
+    * all ship data from SFER cruises 2014-present.
+    * organized into subfolders by cruise ID; each folder contains the raw CTD, underway, and ADCP files from the ship.
+    * ADCP folder is typically named 'ADCP' or sometimes 'currents'.
+    * There are several cruises from 2016 and 2017 missing
+    * Some cruises may not have ADCP data as well (e.g. the Hogarth doesn't have an ADCP).
+    * primary contact: Rachel Cohn
 * USF's Cruise Protocol
   * [cruise scripts](https://github.com/USF-IMARS/mbon_cruise_scripts)
 * Specific Processing Efforts
