@@ -1,5 +1,5 @@
 # SEUS-MBON-cruise
-This repo is the entry point for learning about the South-East US Marine Biodiversity Observation Network (SEUS-MBON) research cruise.
+This repo is the entry point for learning about the South-East US Marine Biodiversity Observation Network (SEUS-MBON) research cruise completed in cooperation with NOAA AOML SFER.
 
 Quick links:
 * `./pipeline` : an overview of how collected data flows through processing steps and into data endpoints
